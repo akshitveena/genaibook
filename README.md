@@ -1,3 +1,5 @@
+# Working on creating new life..
+# akshitveena
 # Hands-On Generative AI with Transformers and Diffusion Models
 
 Hi 🤗 This repository contains all the code and exercise answers of the book [Hands-On Generative AI with Transformers and Diffusion Models](https://www.amazon.com/Hands-Generative-Transformers-Diffusion-Models/dp/1098149246). 
